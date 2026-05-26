@@ -15,5 +15,6 @@ Build a Logistic Regression model for binary classification and deploy using Str
 - Pandas
 - Streamlit
 
-## Deployment
-The project uses Streamlit for deployment.
+## Deployment Screenshot
+
+![Deployment Screenshot](deployment.png)
